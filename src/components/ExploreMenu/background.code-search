@@ -1,0 +1,35 @@
+# Query: background
+
+19 results - 7 files
+
+src\components\FoodItem\FoodItem.css:
+  69:     background-color: #1F4529;
+
+src\components\Footer\Footer.css:
+   3:     background-color: #323232;
+  46:     background-color: gray;
+
+src\components\Header\Header.css:
+   4:     background: url('/header_img.png') no-repeat;
+   5:     background-size: contain;
+  37:     background-color: #47663B;
+
+src\components\LoginPopup\LoginPopup.css:
+   6:     background-color: #00000090;
+  14:     background-color: #1F4529;
+  54:     background-color: #E8ECD7;
+
+src\components\Navbar\Navbar.css:
+  27:     background: transparent;
+  38: background-color: #47663B;
+  58:     background-color: #1F4529;
+
+src\pages\Cart\Cart.css:
+  23:     background-color: #1F4529;
+  58:     background-color: #E8ECD7;
+  78:     background-color: #47663B;
+  83:     background: transparent;
+  92:     background-color: black;
+
+src\pages\MyOrders\MyOrders.css:
+  40:     background-color: #ffe1e1;
